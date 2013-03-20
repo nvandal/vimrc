@@ -1,0 +1,12 @@
+[submodule ".vim/bundle/pathogen"]
+	path = .vim/bundle/pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule ".vim/bundle/YankRing"]
+	path = .vim/bundle/YankRing
+	url = https://github.com/vim-scripts/YankRing.vim.git
+[submodule ".vim/bundle/toggle_mouse"]
+	path = .vim/bundle/toggle_mouse
+	url = https://github.com/nvie/vim-togglemouse.git
+[submodule ".vim/bundle/vim-surround"]
+	path = .vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git

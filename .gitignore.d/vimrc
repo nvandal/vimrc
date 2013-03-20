@@ -2,4 +2,4 @@
 !.gitignore.d
 !.gitignore.d/vimrc
 !.vimrc
-
+!.vimrc/bundle
